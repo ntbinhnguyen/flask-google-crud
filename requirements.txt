@@ -1,0 +1,7 @@
+Flask
+gspread
+google-api-python-client
+google-auth
+google-auth-oauthlib
+oauth2client
+python-dotenv
